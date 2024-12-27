@@ -10,4 +10,4 @@ I'm always excited to learn new things and collaborate on interesting projects.
 
 ## 📢 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/randychan112)
+- [My LinkedIn](https://www.linkedin.com/in/randychan112)
