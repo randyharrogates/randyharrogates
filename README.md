@@ -11,3 +11,5 @@ I'm always excited to learn new things and collaborate on interesting projects.
 ## 📢 Let's Connect!
 
 - [My LinkedIn](https://www.linkedin.com/in/randychan112)
+
+- <a href="mailto:randychan_92&#64;outlook&#46;com">My Email</a>
