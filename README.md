@@ -10,7 +10,7 @@ I'm always excited to learn new things and collaborate on interesting projects.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=randyharrogates&show_icons=true&hide_title=true)
 
 ---
 
